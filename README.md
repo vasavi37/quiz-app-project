@@ -13,6 +13,6 @@ An **interactive quiz application** built using **HTML**, **CSS**, and **JavaScr
 - JavaScript
 
 ![Quiz Screenshot](IMG_20250506_071425.jpg)
-
+![quiz Screenshot](IMG_20250506_071451.jpg)
 ## Author
 Created by **Vasavi**
