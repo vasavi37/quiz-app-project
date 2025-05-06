@@ -12,5 +12,7 @@ An **interactive quiz application** built using **HTML**, **CSS**, and **JavaScr
 - CSS  
 - JavaScript
 
+![Quiz Screenshot](IMG_20250506_071425.jpg)
+
 ## Author
 Created by **Vasavi**
